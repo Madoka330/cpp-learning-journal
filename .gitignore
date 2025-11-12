@@ -3,3 +3,6 @@
 
 # 忽略 VSCode 配置文件夹
 .vscode/
+
+# 忽略测试文件
+main.cpp
